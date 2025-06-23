@@ -13,7 +13,7 @@ public class LoginFlow {
         WebDriver d = new ChromeDriver();
         d.get("https://cashkaro.com");
         WebElement logo = d.findElement(By.xpath("//img[@title='CashKaro']"));
-         System.out.println("Login flow successfully modfied....");
+         System.out.println("Login flow successfully ....");
 
     }
 }
