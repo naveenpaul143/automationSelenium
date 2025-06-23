@@ -16,7 +16,7 @@ public class LaunchBrowser {
         if (logo.isDisplayed()) {
             System.out.println("Successfully navigated to Cashkaro application");
         } else {
-            System.out.println("Failed to navigated to Cashkaro application");
+            System.out.println("Failed to navigated to demo application");
         }
 
     }
